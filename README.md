@@ -30,7 +30,7 @@
 
 ## ✨ Features
 
-<table width="90%" align="center">
+<table width="100%" align="center">
 <tr>
 <td width="50%">
 

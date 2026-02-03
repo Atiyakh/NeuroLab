@@ -16,6 +16,14 @@
 
 </div>
 
+<p align="center">
+  <img src="github.com/Atiyakh/NeuroLab/blob/main/screenshots/Screenshot%202026-02-03%20053607.png?raw=true">
+</p>
+
+<p align="center">
+  <img src="github.com/Atiyakh/NeuroLab/blob/main/screenshots/Screenshot%202026-02-03%20053541.png?raw=true">
+</p>
+
 ---
 
 > **Note:** I have some reservations about making the repository public at this stage, as the project is still in a very early phase of development.

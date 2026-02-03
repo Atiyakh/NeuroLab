@@ -17,11 +17,11 @@
 </div>
 
 <p align="center">
-  <img src="github.com/Atiyakh/NeuroLab/blob/main/screenshots/Screenshot%202026-02-03%20053607.png">
+  <img src="github.com/Atiyakh/NeuroLab/blob/main/screenshots/screenshot%202026-02-03%20053607.png">
 </p>
 
 <p align="center">
-  <img src="github.com/Atiyakh/NeuroLab/blob/main/screenshots/Screenshot%202026-02-03%20053541.png">
+  <img src="github.com/Atiyakh/NeuroLab/blob/main/screenshots/screenshot%202026-02-03%20053541.png">
 </p>
 
 ---

@@ -30,9 +30,9 @@
 
 ## ✨ Features
 
-<table>
+<table width="90%" align="center">
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 📥 Data Ingestion
 - Upload **EDF**, **BDF**, **FIF**, and **SET** files
@@ -41,7 +41,7 @@
 - Batch upload support
 
 </td>
-<td width="100%">
+<td width="50%">
 
 ### ⚡ Preprocessing Pipeline
 - Resampling to target frequency
@@ -53,7 +53,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 📊 Feature Extraction
 - **Band Power**: Delta, Theta, Alpha, Beta, Gamma
@@ -63,7 +63,7 @@
 - **Connectivity**: Coherence, phase-locking value
 
 </td>
-<td width="100%">
+<td width="50%">
 
 ### 🤖 Machine Learning
 - Random Forest, SVM, Logistic Regression
@@ -75,7 +75,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 📡 Real-time Processing
 - WebSocket-based streaming
@@ -84,7 +84,7 @@
 - Band power visualization
 
 </td>
-<td width="100%">
+<td width="50%">
 
 ### 📈 Visualizations
 - PSD heatmaps
